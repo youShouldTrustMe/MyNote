@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "103ac7ee7891331e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecb4a613af389902",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2464faafc10adae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "嵌入式/通信协议/UDS协议.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2435809cdeed5fc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2096308e13d8ca86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1c3ac4163837e73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9a7dd52c460dc8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72736b89d197f343",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "right": {
+    "id": "f1f620905e656e88",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f909cffa23b025f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "838bbf2ada7cabf7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "嵌入式/通信协议/UDS协议.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12b933eb64b9992a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "嵌入式/通信协议/UDS协议.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c194899e691cd95",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "24a7690403aeb8b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "嵌入式/通信协议/UDS协议.md"
+              }
+            }
+          },
+          {
+            "id": "d7a6d203c76ce371",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "f2464faafc10adae",
+  "lastOpenFiles": [
+    "软件及工具的使用/CANoe.md",
+    "未命名.md",
+    "编程语言/未命名.md",
+    "未命名 1.md",
+    "Pasted image 20240816164135.png",
+    "编程语言/MarkDown.md",
+    "编程语言/Matlab/Simulink.md",
+    "编程语言/Matlab/Untitled.md",
+    "编程语言/Matlab/Stateflow.md",
+    "编程语言/Matlab/基本语法.md",
+    "编程语言/Matlab/Matlab.md",
+    "编程语言/Matlab",
+    "编程语言/Untitled Folder",
+    "Matlab模型/stateflow.md",
+    "Matlab模型/simulink.md",
+    "Matlab模型",
+    "基础知识/软件基础知识.md",
+    "基础知识/计算机系统基础.md",
+    "基础知识/硬件基础知识.md",
+    "基础知识/嵌入式系统.md",
+    "基础知识/操作系统基础.md",
+    "基础知识/BootLoader.md",
+    "基础知识",
+    "嵌入式/基础知识/操作系统基础.md",
+    "嵌入式/基础知识/Untitled.md",
+    "编程语言/Shell.md",
+    "Excalidraw/FTA.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2024-08-15 17.20.12.excalidraw.md",
+    "未命名.canvas",
+    "嵌入式/基础知识/计算机系统基础.md",
+    "软件及工具的使用/Linux.md",
+    "编程语言/C++.md",
+    "vlook-owl.css",
+    "Untitled.canvas"
+  ]
+}

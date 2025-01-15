@@ -1,0 +1,10 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "",
+  "monospaceFontFamily": "Cambria",
+  "textFontFamily": "Inter",
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ],
+  "baseFontSize": 18
+}
